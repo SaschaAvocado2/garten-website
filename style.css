@@ -1,0 +1,8 @@
+.navbar {
+    /* ... deine anderen Navbar-Styles ... */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* horizontal-offset vertical-offset blur-radius spread-radius color */
+  }
+
+  .container1{
+    margin-left: 50px;
+  }
